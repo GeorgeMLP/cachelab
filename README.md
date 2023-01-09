@@ -12,7 +12,7 @@ For more information about this lab, please refer to ```cachelab.pdf```.
 
 ## Installation
 
-It is recommended to do this lab on Ubuntu 20.04.
+It is recommended to do this lab on Ubuntu 22.04.
 
 Before getting your hands dirty, a Linux program called ```valgrind``` will be doing you a great deal of things. You can type the following command to install ```valgrind```.
 ```
